@@ -5,10 +5,10 @@
 
   
 ## I'm a software Engineer:
-- Container enthusiast.
-- DevOps cultist.
-- CI/CD lover.
-- YAML programmer.
+- :whale: Container enthusiast.
+- :memo: DevOps cultist.
+- :heart: CI/CD lover.
+- :clown_face: YAML programmer.
 
 
 
@@ -20,8 +20,8 @@
 
 <br />
 
-## :octocat: Github Stats
-
+## :chart: Stats
+### Weekly development stats 
 <!--START_SECTION:waka-->
 ```text
 Go         6 hrs 33 mins   ████████████████░░░░░░░░░   64.00 % 
