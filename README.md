@@ -23,6 +23,13 @@
 ## :octocat: Github Stats
 
 <!--START_SECTION:waka-->
+```text
+Go         6 hrs 33 mins   ████████████████░░░░░░░░░   64.00 % 
+Other      1 hr 31 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+YAML       50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Markdown   44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Python     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+```
 <!--END_SECTION:waka-->
 
 <img width="60%" align="left" alt="Vicsufer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vicsufer&show_icons=true&hide_border=true" />
