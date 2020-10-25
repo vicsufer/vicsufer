@@ -21,7 +21,7 @@
 <br />
 
 ## :chart: Stats
-### Weekly development stats 
+### Weekly development metrics 
 <!--START_SECTION:waka-->
 ```text
 Go         6 hrs 33 mins   ████████████████░░░░░░░░░   64.00 % 
