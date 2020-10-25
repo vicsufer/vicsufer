@@ -1,7 +1,8 @@
 ### Hi there, I'm Víctor - aka [vicsufer][website] 👋
 
-[![Website](https://img.shields.io/website?label=vicsufer.dev&style=for-the-badge&url=https%3A%2F%2Fvicsufer.dev)](https://vicsufer.devm)
+[![Website](https://img.shields.io/website?label=vicsufer.dev&style=for-the-badge&url=https%3A%2F%2Fvicsufer.dev)](https://vicsufer.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/vicsufer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fvicsufer&screen_name=vicsufer)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicsufer)
 
   
 ## I'm a software Engineer:
@@ -10,15 +11,10 @@
 - :heart: CI/CD lover.
 - :clown_face: YAML programmer.
 
-
-
-### You can find me at:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+### :dart: Current goals:
+- Contribute more to OSS projects.
+- Kubernetes Certified Application Developer
+- Develop my [personal webpage][website].
 
 ## :chart: Stats
 ### Weekly development metrics 
