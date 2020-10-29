@@ -20,11 +20,11 @@
 ### Weekly development metrics 
 <!--START_SECTION:waka-->
 ```text
-Go           9 hrs 39 mins   ███████████░░░░░░░░░░░░░░   44.61 % 
-YAML         4 hrs 33 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.07 % 
-Other        2 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-JavaScript   2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Markdown     1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Go           11 hrs 23 mins  ██████████░░░░░░░░░░░░░░░   40.09 % 
+YAML         9 hrs 9 mins    ████████░░░░░░░░░░░░░░░░░   32.27 % 
+Other        2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+JavaScript   2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Markdown     1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 ```
 <!--END_SECTION:waka-->
 
