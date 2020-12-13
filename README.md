@@ -20,9 +20,7 @@
 ### Weekly development metrics 
 <!--START_SECTION:waka-->
 ```text
-Groovy     26 mins         ███████████████░░░░░░░░░░   59.96 % 
-Markdown   12 mins         ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-YAML       5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
