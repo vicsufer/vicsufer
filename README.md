@@ -20,9 +20,11 @@
 ### Weekly development metrics 
 <!--START_SECTION:waka-->
 ```text
-YAML       2 hrs 1 min     ██████████████████████▒░░   89.37 % 
-Markdown   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Jinja2     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+YAML         3 hrs 44 mins   █████████████████████▒░░░   84.81 % 
+Other        16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Markdown     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Bash         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 <!--END_SECTION:waka-->
 
