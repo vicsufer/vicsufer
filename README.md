@@ -20,9 +20,7 @@
 ### Weekly development metrics 
 <!--START_SECTION:waka-->
 ```text
-YAML       1 hr 6 mins     ██████████████████████▒░░   89.72 % 
-Other      5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Bash       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+YAML       53 mins         ████████████████████████▓   99.31 % 
 ```
 <!--END_SECTION:waka-->
 
