@@ -20,11 +20,11 @@
 ### Weekly development metrics 
 <!--START_SECTION:waka-->
 ```text
-YAML     16 hrs 5 mins   ████████████▒░░░░░░░░░░░░   49.68 % 
-Groovy   5 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Docker   2 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Other    1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Text     1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+YAML     8 hrs 44 mins   █████████░░░░░░░░░░░░░░░░   36.47 % 
+Groovy   3 hrs 46 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Go       2 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Docker   1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Config   1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 ```
 <!--END_SECTION:waka-->
 
