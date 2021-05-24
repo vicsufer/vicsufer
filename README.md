@@ -28,7 +28,7 @@ Docker   1 hr 31 mins    █▓░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<img width="60%" align="left" alt="Vicsufer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vicsufer&show_icons=true&hide_border=true" />
+<img width="60%" align="left" alt="Vicsufer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vicsufer&show_icons=true&hide_border=true" />
 
 
 
