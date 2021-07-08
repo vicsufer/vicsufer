@@ -17,16 +17,6 @@
 - Develop my [personal webpage][website].
 
 ## :chart: Stats
-### Weekly development metrics 
-<!--START_SECTION:waka-->
-```text
-YAML     3 hrs 48 mins   █████████████████░░░░░░░░   68.50 % 
-Other    50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Docker   25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Jinja2   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-PHP      8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-```
-<!--END_SECTION:waka-->
 
 <img width="60%" align="left" alt="Vicsufer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vicsufer&show_icons=true&hide_border=true" />
 
